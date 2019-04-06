@@ -1,0 +1,54 @@
+baseurl = "/"
+theme = "hello-friend-ng"
+languageCode = "en-us"
+
+title = "Tommaso Pifferi"
+
+canonifyURLs = true
+enableRobotsTXT = true
+enableEmoji = true
+disableRSS = true
+disableSitemap = false
+disable404 = false
+
+[params]
+  dateform = "Jan 2, 2006"
+  dateformShor = "Jan 2"
+  dateformNum = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Homepage and blog by Djordje Atlialp"
+  keywords = "homepage, blog, developer, full stack, javascript, nodejs, elm, elixir"
+  images = [""]
+
+  homeSubtitle = "Full stack developer"
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  [params.logo]
+    logoText = "$ cd ~"
+    logoHomeLink = "/"
+
+  # Social icons
+  [[params.social]]
+    name = "email"
+    url = "mailto:p.tommy93@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/neslinesli93"
+
+  [[params.social]]
+    name = "medium"
+    url = "https://medium.com/@neslinesli93"
+
+# And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
