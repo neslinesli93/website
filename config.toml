@@ -7,7 +7,7 @@ title = "Tommaso Pifferi"
 canonifyURLs = true
 enableRobotsTXT = true
 enableEmoji = true
-disableRSS = true
+disableRSS = false
 disableSitemap = false
 disable404 = false
 
@@ -23,6 +23,7 @@ disable404 = false
   images = [""]
 
   homeSubtitle = "Full stack developer"
+  feedUrl = "https://medium.com/feed/@neslinesli93"
 
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
@@ -46,7 +47,6 @@ disable404 = false
     name = "medium"
     url = "https://medium.com/@neslinesli93"
 
-# And you can even create generic menu
 [menu]
   [[menu.main]]
     identifier = "about"
