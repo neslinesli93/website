@@ -9,7 +9,7 @@ author: Tommaso Pifferi
 
 ## Projects
 - [ForecastCycles](https://forecastcycles.com), a SaaS for expert and amateur financial traders, built with [Semantic UI](https://react.semantic-ui.com/)
-- [Sigma Leasing](http://sigma.logibrick.com/), an enterprise management system for real estate assets
+- [Sigma Leasing](https://sigma.logibrick.com/), an enterprise management system for real estate assets
 
 ## Hacks
 - [Briscola](https://en.boardgamearena.com/#!gamepanel?game=briscola), a famous italian card game, hosted on BoardGameArena. Source code available [here](https://github.com/neslinesli93/briscola-bga)
