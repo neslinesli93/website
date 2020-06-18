@@ -49,6 +49,6 @@ disable404 = false
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
+    identifier = "works"
+    name = "Works"
+    url = "/works"
