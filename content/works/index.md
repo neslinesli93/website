@@ -1,11 +1,9 @@
 ---
-title: "Works"
+title: Works
 date: 2020-06-18T22:45:06+02:00
 draft: false
 author: Tommaso Pifferi
 ---
-
-{{< figure src="/me.jpg" alt="Tommaso Pifferi" position="center" style="height:120px; border-radius: 50%">}}
 
 ## Projects
 
