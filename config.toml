@@ -4,13 +4,18 @@ languageCode = "en-us"
 
 title = "Tommaso Pifferi"
 
-canonifyURLs = true
 enableRobotsTXT = true
-enableEmoji = true
-disableRSS = false
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
 disableSitemap = false
-disable404 = false
+disable404     = false
+disableHugoGeneratorInject = false
 
+[taxonomies]
+  tag = "tags"
+  
 [params]
   dateform = "Jan 2, 2006"
   dateformShor = "Jan 2"
@@ -18,7 +23,8 @@ disable404 = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Homepage and blog by Djordje Atlialp"
+  DefaultContentLanguage = "en"
+  description = "Homepage and microblog by Tommaso Pifferi"
   keywords = "homepage, blog, developer, full stack, javascript, nodejs, elm, elixir"
   images = [""]
 
@@ -48,6 +54,10 @@ disable404 = false
     url = "https://medium.com/@neslinesli93"
 
 [menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
   [[menu.main]]
     identifier = "works"
     name = "Works"
