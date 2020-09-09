@@ -17,4 +17,4 @@ author: Tommaso Pifferi
 
 ## More
 
-You can check [my resume](/Tommaso Pifferi CV.pdf) for more details
+You can check [my resume](</Tommaso Pifferi CV.pdf>) for more details
