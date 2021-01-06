@@ -12,8 +12,9 @@ author: Tommaso Pifferi
 
 ## Hacks
 
-- [Briscola](https://en.boardgamearena.com/#!gamepanel?game=briscola), a famous italian card game, hosted on BoardGameArena. Source code available [here](https://github.com/neslinesli93/briscola-bga)
+- [JPEG.rocks](https://jpeg.rocks), a browser-based jpeg optimizer based on mozjpeg, created with Rust and WebAssembly
 - [BreakoutEx](https://breakoutex.tommasopifferi.com), a Breakout clone written in pure Elixir that can be played in the browser thanks to [Phoenix LiveView](https://github.com/phoenixframework/phoenix_live_view)
+- [Briscola](https://en.boardgamearena.com/#!gamepanel?game=briscola), a famous italian card game, hosted on BoardGameArena. Source code available [here](https://github.com/neslinesli93/briscola-bga)
 
 ## More
 
